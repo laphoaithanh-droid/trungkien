@@ -1,0 +1,6 @@
+{
+  "name": "Trung Kiên EdTech - Hệ Sinh Thái Giáo Dục Thông Minh",
+  "description": "Nền tảng quản lý trung tâm ngoại ngữ Trung Kiên: Kiến trúc Microservices, Zero Trust Security, AI Adaptive Learning, FaceID & Dynamic QR, Blockchain Credentials và Tài chính Auto-Reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
